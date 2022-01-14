@@ -592,22 +592,38 @@ h2 {
 
     .h3-catalogo {
         padding-top: 30px;
-        font-size: 3vw;
+        font-size: 2vw;
         padding-bottom: 0px;
     }
 
     .h2-catalogo {
         padding-top: 5px;
-        font-size: 7vw;
+        font-size: 4vw;
+        padding-bottom: 5px;
     }
 
     .p-catalogo {
-        padding-top: 5px;
-        font-size: 4.2vw;
+        padding-top: 2px;
+        font-size: 3vw;
+        padding-bottom: 0px;
     }
 
     .img1-catalogo {
         width: 100%;
+    }
+
+    .h4-catalogo2 {
+        font-size: 2.5vw;
+    }
+
+    .h3-catalogo2 {
+        font-size: 4vw;
+        padding-bottom: 0px;
+    }
+
+    .p-catalogo2 {
+        padding-top: opx;
+        font-size: 3vw;
     }
 
 
